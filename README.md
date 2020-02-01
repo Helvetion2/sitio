@@ -1,1 +1,1 @@
-![oli](/home/santiago/sitio/images/giphy.gif)
+![oli](images/giphy.gif)
