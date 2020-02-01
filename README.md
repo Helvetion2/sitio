@@ -1,1 +1,0 @@
-![oli](images/giphy.gif)
