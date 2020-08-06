@@ -7,6 +7,6 @@ miImage.onclick = function () {
     if (miSrc === 'images/giphy.gif') {
       miImage.setAttribute('src','images/firefox2.png');
     } else {
-      miImage.setAttribute('src', 'images/firefox-icon.png');
+      miImage.setAttribute('src', 'images/giphy.gif ');
     }
 }
