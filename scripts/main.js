@@ -1,14 +1,22 @@
 const myHeading = document.querySelector('h1');
 myHeading.textContent = 'TE GUSTAN LAS ACEITUNAS??';
 
-document.querySelector('img').onclick = function() {
-
+let miImage = document.querySelector('img');
+miImage.onclick = function () {
 let miSrc = miImage.getAttribute('src');
     if (miSrc === 'images/sipp.png') {
-    alert('Sos un tipazo');
+    alert('dios te bendiga, sos una buena preona');
 }else {
       alert('zarpdado mogolico');
     }
 }
 
+{
+let miSrc = miImage.getAttribute('src');
+    if (miSrc === 'images/NO.jpg') {
+    alert('zarpado mogolik');
+}else {
+      alert('zarpdado mogolico');
+    }
+}
 
