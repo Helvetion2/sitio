@@ -10,3 +10,6 @@ miImage.onclick = function () {
       miImage.setAttribute('src', 'images/giphy.gif');
     }
 }
+
+let miBoton = document.querySelector('button');
+let miTitulo = document.querySelector( 'h1');
